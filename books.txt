@@ -1,2 +1,2 @@
 // a book on SOM
-http://www.novaims.unl.pt/docentes/vlobo/Publicacoes/4_1_03_Applications_of_Self-Organizing_Maps.pdf
+<a href="http://www.novaims.unl.pt/docentes/vlobo/Publicacoes/4_1_03_Applications_of_Self-Organizing_Maps.pdf">SOM</a>
