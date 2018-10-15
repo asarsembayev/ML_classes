@@ -1,0 +1,14 @@
+https://stackabuse.com/decision-trees-in-python-with-scikit-learn/
+the csv dataset is in the folder
+
+http://people.sc.fsu.edu/~jburkardt/datasets/regression/x16.txt
+the explanations on the dataset
+
+=========================================================================
+
+
+yet another good tutorial
+https://www.dummies.com/programming/big-data/data-science/how-to-create-classification-and-regression-trees-in-python-for-data-science/
+
+=============================================================================
+http://www.semspirit.com/artificial-intelligence/machine-learning/regression/decision-tree-regression/decision-tree-regression-in-python/
