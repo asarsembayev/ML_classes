@@ -1,0 +1,564 @@
+,1_num,2_Name,3_Position,4_Height,5_Weight,6_BirthDate,7_Birthplace,Team
+0,1.0,Petr Cech,Goalkeeper,1.96 m6-5,90 kg198 lbs,5/20/1982      ,"Plzen, Czechoslovakia ",Arsenal
+1,50.0,Dejan Iliev,Goalkeeper,1.95 m6-5,87 kg192 lbs,2/25/1995      ,"Strumica, Macedonia ",Arsenal
+2,19.0,Bernd Leno,Goalkeeper,1.90 m6-3,83 kg183 lbs,3/4/1992      ,"Bietigheim-Bissingen, Germany ",Arsenal
+3,2.0,Héctor Bellerín,Defender,1.77 m5-10,74 kg163 lbs,3/19/1995      ,"Barcelona, Spain ",Arsenal
+4,16.0,Rob Holding,Defender,1.83 m6-0,75 kg165 lbs,9/20/1995      ,"Tameside, England ",Arsenal
+5,25.0,Carl Jenkinson,Defender,1.85 m6-1,77 kg170 lbs,2/8/1992      ,"Harlow, England ",Arsenal
+6,31.0,Sead Kolasinac,Defender,1.83 m6-0,85 kg187 lbs,6/20/1993      ,"Karlsruhe, Germany ",Arsenal
+7,6.0,Laurent Koscielny,Defender,1.85 m6-1,75 kg165 lbs,9/10/1985      ,"Tulle, France ",Arsenal
+8,12.0,Stephan Lichtsteiner,Defender,1.81 m5-11,77 kg170 lbs,1/16/1984      ,"Adligenswil, Switzerland ",Arsenal
+9,27.0,Konstantinos Mavropanos,Defender,1.94 m6-4,80 kg176 lbs,12/11/1997      ,"Athens, Greece ",Arsenal
+10,47.0,Zech Medley,Defender,,,7/9/2000      ,"London, England ",Arsenal
+11,18.0,Nacho Monreal,Defender,1.79 m5-10,72 kg159 lbs,2/26/1986      ,"Pamplona, Spain ",Arsenal
+12,20.0,Shkodran Mustafi,Defender,1.84 m6-0,82 kg181 lbs,4/17/1992      ,"Bad Hersfeld, Germany ",Arsenal
+13,5.0,Sokratis Sokratis,Defender,1.86 m6-1,85 kg187 lbs,6/9/1988      ,"Kalamata, Greece ",Arsenal
+14,53.0,Julio Pleguezuelo,Defender,,,1/26/1997      ,"Palma de Mallorca, Spain ",Arsenal
+15,4.0,Mohamed Elneny,Midfielder,1.81 m5-11,74 kg163 lbs,7/11/1992      ,"El-Mahalla El-Kubra, Egypt ",Arsenal
+16,43.0,Charlie Gilmour,Midfielder,,,2/11/1999      ,"Brighton, England ",Arsenal
+17,29.0,Matteo Guendouzi,Midfielder,1.80 m5-11,68 kg150 lbs,4/14/1999      ,"Poissy, France ",Arsenal
+18,17.0,Alex Iwobi,Midfielder,1.85 m6-1,86 kg190 lbs,5/3/1996      ,"Lagos, Nigeria ",Arsenal
+19,15.0,Ainsley Maitland-Niles,Midfielder,1.77 m5-10,71 kg157 lbs,8/29/1997      ,"Goodmayes, England ",Arsenal
+20,7.0,Henrikh Mkhitaryan,Midfielder,1.77 m5-10,75 kg165 lbs,1/21/1989      ,"Yerevan, USSR ",Arsenal
+21,10.0,Mesut Özil,Midfielder,1.80 m5-11,70 kg154 lbs,10/15/1988      ,"Gelsenkirchen, West Germany ",Arsenal
+22,8.0,Aaron Ramsey,Midfielder,1.78 m5-10,76 kg168 lbs,12/26/1990      ,"Caerphilly, Wales ",Arsenal
+23,22.0,Denis Suárez,Midfielder,1.76 m5-9,69 kg152 lbs,1/6/1994      ,"Salceda de Caselas, Spain ",Arsenal
+24,11.0,Lucas Torreira,Midfielder,1.68 m5-6,61 kg134 lbs,2/11/1996      ,"Fray Bentos, Uruguay ",Arsenal
+25,59.0,Joe Willock,Midfielder,1.79 m5-10,,8/20/1999      ,"Waltham Forest, England ",Arsenal
+26,34.0,Granit Xhaka,Midfielder,1.83 m6-0,82 kg181 lbs,9/27/1992      ,"Basel, Switzerland ",Arsenal
+27,14.0,Pierre-Emerick Aubameyang,Forward,1.87 m6-2,74 kg163 lbs,6/18/1989      ,"Laval, France ",Arsenal
+28,72.0,Tyreece John-Jules,Forward,,,, ,Arsenal
+29,9.0,Alexandre Lacazette,Forward,1.75 m5-9,73 kg161 lbs,5/28/1991      ,"Lyon, France ",Arsenal
+30,49.0,Eddie Nketiah,Forward,1.75 m5-9,70 kg154 lbs,5/30/1999      ,"Lewisham, England ",Arsenal
+31,87.0,Bukayo Saka,Forward,,,9/5/2001      , ,Arsenal
+32,23.0,Danny Welbeck,Forward,1.84 m6-0,78 kg172 lbs,11/26/1990      ,"Longsight, England ",Arsenal
+0,27.0,Asmir Begovic,Goalkeeper,1.99 m6-6,101 kg223 lbs,6/20/1987      ,"Trebinje, Yugoslavia ",Bournemouth
+1,1.0,Artur Boruc,Goalkeeper,1.93 m6-4,87 kg192 lbs,2/20/1980      ,"Siedlce, Poland ",Bournemouth
+2,42.0,Mark Travers,Goalkeeper,1.91 m6-3,82 kg181 lbs,5/18/1999      , ,Bournemouth
+3,5.0,Nathan Aké,Defender,1.80 m5-11,75 kg165 lbs,2/18/1995      ,"The Hague, Netherlands ",Bournemouth
+4,23.0,Nathaniel Clyne,Defender,1.75 m5-9,67 kg148 lbs,4/5/1991      ,"Stockwell, England ",Bournemouth
+5,3.0,Steve Cook,Defender,1.85 m6-1,82 kg181 lbs,4/19/1991      ,"Hastings, England ",Bournemouth
+6,11.0,Charlie Daniels,Defender,1.78 m5-10,75 kg165 lbs,9/7/1986      ,"Harlow, England ",Bournemouth
+7,2.0,Simon Francis,Defender,1.83 m6-0,90 kg198 lbs,2/16/1985      ,"Nottingham, England ",Bournemouth
+8,33.0,Chris Mepham,Defender,1.91 m6-3,75 kg165 lbs,11/5/1997      ,"Hammersmith, England ",Bournemouth
+9,21.0,Diego Rico,Defender,1.81 m5-11,75 kg165 lbs,2/23/1993      ,"Burgos, Spain ",Bournemouth
+10,25.0,Jack Simpson,Defender,1.78 m5-10,83 kg183 lbs,1/8/1997      ,"Wandsworth, England ",Bournemouth
+11,15.0,Adam Smith,Defender,1.80 m5-11,78 kg172 lbs,4/29/1991      ,"Leytonstone, England ",Bournemouth
+12,20.0,David Brooks,Midfielder,1.66 m5-5,62 kg137 lbs,7/8/1997      ,"Warrington, England ",Bournemouth
+13,36.0,Matt Butcher,Midfielder,1.88 m6-2,82 kg181 lbs,5/14/1997      ,"Reading, England ",Bournemouth
+14,16.0,Lewis Cook,Midfielder,1.75 m5-9,71 kg157 lbs,2/3/1997      ,"York, England ",Bournemouth
+15,24.0,Ryan Fraser,Midfielder,1.63 m5-4,70 kg154 lbs,2/24/1994      ,"Aberdeen, Scotland ",Bournemouth
+16,4.0,Dan Gosling,Midfielder,1.83 m6-0,79 kg174 lbs,2/1/1990      ,"Brixham, England ",Bournemouth
+17,22.0,Emerson Hyndman,Midfielder,1.70 m5-7,61 kg134 lbs,4/9/1996      ,"Dallas, Texas ",Bournemouth
+18,10.0,Jordon Ibe,Midfielder,1.76 m5-9,81 kg179 lbs,12/8/1995      ,"London, England ",Bournemouth
+19,8.0,Jefferson Lerma,Midfielder,1.79 m5-10,70 kg154 lbs,10/25/1994      ,"Cerrito, Colombia ",Bournemouth
+20,59.0,Nnamdi Ofoborh,Midfielder,1.83 m6-0,77 kg170 lbs,11/7/1999      ,"Southwark, England ",Bournemouth
+21,19.0,Junior Stanislas,Midfielder,1.83 m6-0,76 kg168 lbs,11/26/1989      ,"Kidbrooke, England ",Bournemouth
+22,6.0,Andrew Surman,Midfielder,1.78 m5-10,73 kg161 lbs,8/20/1986      ,"Johannesburg, South Africa ",Bournemouth
+23,28.0,Kyle Taylor,Midfielder,,,8/28/1990      , ,Bournemouth
+24,17.0,Joshua King,Forward,1.80 m5-11,74 kg163 lbs,1/15/1992      ,"Oslo, Norway ",Bournemouth
+25,9.0,Lys Mousset,Forward,1.84 m6-0,80 kg176 lbs,2/8/1996      ,"Le Havre, France ",Bournemouth
+26,29.0,Dominic Solanke,Forward,1.85 m6-1,75 kg165 lbs,9/14/1997      ,"Basingstoke, England ",Bournemouth
+27,44.0,Sam Surridge,Forward,1.91 m6-3,77 kg170 lbs,7/28/1998      ,"Slough, England ",Bournemouth
+28,13.0,Callum Wilson,Forward,1.80 m5-11,66 kg146 lbs,2/27/1992      ,"Coventry, England ",Bournemouth
+0,27.0,David Button,Goalkeeper,1.91 m6-3,87 kg192 lbs,2/27/1989      ,"Stevenage, England ",Brighton & Hove Albion
+1,1.0,Mat Ryan,Goalkeeper,1.84 m6-0,82 kg181 lbs,4/8/1992      ,"Plumpton, Australia ",Brighton & Hove Albion
+2,31.0,Robert Sanchez,Goalkeeper,1.97 m6-6,90 kg198 lbs,11/18/1997      ,England ,Brighton & Hove Albion
+3,23.0,Jason Steele,Goalkeeper,1.90 m6-3,79 kg174 lbs,8/18/1990      ,"Newton Aycliffe, England ",Brighton & Hove Albion
+4,14.0,Leon Balogun,Defender,,,6/28/1988      ,"Berlin, Germany ",Brighton & Hove Albion
+5,30.0,Bernardo,Defender,1.86 m6-1,76 kg168 lbs,5/14/1995      ,"Sao Paulo, Brazil ",Brighton & Hove Albion
+6,3.0,Gaëtan Bong,Defender,1.87 m6-2,74 kg163 lbs,4/25/1988      ,"Sakbayeme, Cameroon ",Brighton & Hove Albion
+7,2.0,Bruno,Defender,1.81 m5-11,76 kg168 lbs,10/1/1980      ,"El Masnou, Spain ",Brighton & Hove Albion
+8,33.0,Dan Burn,Defender,1.98 m6-6,87 kg192 lbs,5/9/1992      ,"Blyth, England ",Brighton & Hove Albion
+9,4.0,Shane Duffy,Defender,1.93 m6-4,76 kg168 lbs,1/1/1992      ,"County Derry, Northern Ireland ",Brighton & Hove Albion
+10,5.0,Lewis Dunk,Defender,1.92 m6-4,88 kg194 lbs,11/21/1991      ,"Brighton, England ",Brighton & Hove Albion
+11,22.0,Martín Montoya,Defender,1.75 m5-9,73 kg161 lbs,4/14/1991      ,"Gava, Spain ",Brighton & Hove Albion
+12,8.0,Yves Bissouma,Midfielder,1.82 m6-0,80 kg176 lbs,8/30/1996      ,"Issia, Ivory Coast ",Brighton & Hove Albion
+13,58.0,Will Collar,Midfielder,,,,England ,Brighton & Hove Albion
+14,13.0,Pascal Groß,Midfielder,1.81 m5-11,78 kg172 lbs,6/15/1991      ,"Mannheim, Germany ",Brighton & Hove Albion
+15,7.0,Beram Kayal,Midfielder,1.78 m5-10,74 kg163 lbs,5/2/1988      ,"Jadeidi, Israel ",Brighton & Hove Albion
+16,11.0,Anthony Knockaert,Midfielder,1.72 m5-8,69 kg152 lbs,11/20/1991      ,"Lille, France ",Brighton & Hove Albion
+17,20.0,Solly March,Midfielder,1.80 m5-11,88 kg194 lbs,7/20/1994      ,"Eastbourne, England ",Brighton & Hove Albion
+18,24.0,Davy Pröpper,Midfielder,1.85 m6-1,72 kg159 lbs,9/2/1991      ,"Arnhem, Netherlands ",Brighton & Hove Albion
+19,41.0,Max Sanders,Midfielder,,,1/4/1999      ,England ,Brighton & Hove Albion
+20,6.0,Dale Stephens,Midfielder,1.69 m5-7,71 kg157 lbs,6/12/1989      ,"Bolton, England ",Brighton & Hove Albion
+21,10.0,Florin Andone,Forward,1.80 m5-11,78 kg172 lbs,4/11/1993      ,"Botosani, Romania ",Brighton & Hove Albion
+22,42.0,Viktor Gyokeres,Forward,,,6/4/1998      ,Sweden ,Brighton & Hove Albion
+23,19.0,José Izquierdo,Forward,1.71 m5-7,73 kg161 lbs,7/7/1992      ,"Pereira, Colombia ",Brighton & Hove Albion
+24,16.0,Alireza Jahanbakhsh,Forward,1.80 m5-11,77 kg170 lbs,8/11/1993      ,"Ghazvin, Iran ",Brighton & Hove Albion
+25,9.0,Jürgen Locadia,Forward,1.82 m6-0,79 kg174 lbs,11/7/1993      ,"Emmen, Netherlands ",Brighton & Hove Albion
+26,17.0,Glenn Murray,Forward,1.83 m6-0,80 kg176 lbs,9/25/1983      ,"Maryport, England ",Brighton & Hove Albion
+0,20.0,Joe Hart,Goalkeeper,1.96 m6-5,91 kg201 lbs,4/19/1987      ,"Shrewsbury, England ",Burnley
+1,1.0,Tom Heaton,Goalkeeper,1.88 m6-2,85 kg187 lbs,4/15/1986      ,"Chester, England ",Burnley
+2,30.0,Adam Legzdins,Goalkeeper,1.90 m6-3,78 kg172 lbs,11/28/1986      ,"Penkridge, England ",Burnley
+3,22.0,Anders Lindegaard,Goalkeeper,1.93 m6-4,80 kg176 lbs,4/13/1984      ,"Dyrup, Denmark ",Burnley
+4,29.0,Nick Pope,Goalkeeper,1.91 m6-3,76 kg168 lbs,4/19/1992      ,"Bury, England ",Burnley
+5,26.0,Phil Bardsley,Defender,1.80 m5-11,74 kg163 lbs,6/28/1985      ,"Salford, England ",Burnley
+6,14.0,Ben Gibson,Defender,1.85 m6-1,78 kg172 lbs,1/15/1993      ,"Nunthorpe, England ",Burnley
+7,28.0,Kevin Long,Defender,1.88 m6-2,83 kg183 lbs,8/18/1990      ,"Cork, Ireland ",Burnley
+8,2.0,Matthew Lowton,Defender,1.80 m5-11,78 kg172 lbs,6/9/1989      ,"Chesterfield, England ",Burnley
+9,6.0,Ben Mee,Defender,1.80 m5-11,74 kg163 lbs,9/21/1989      ,"Sale, England ",Burnley
+10,5.0,James Tarkowski,Defender,1.85 m6-1,81 kg179 lbs,11/19/1992      ,"Manchester, England ",Burnley
+11,3.0,Charlie Taylor,Defender,1.76 m5-9,70 kg154 lbs,9/18/1993      ,"York, England ",Burnley
+12,23.0,Stephen Ward,Defender,1.84 m6-0,82 kg181 lbs,8/20/1985      ,"Dublin, Ireland ",Burnley
+13,46.0,Josh Benson,Midfielder,,,12/5/1999      ,England ,Burnley
+14,12.0,Robbie Brady,Midfielder,1.76 m5-9,71 kg157 lbs,1/14/1992      ,"Dublin, Ireland ",Burnley
+15,4.0,Jack Cork,Midfielder,1.83 m6-0,70 kg154 lbs,6/25/1989      ,"Carshalton, England ",Burnley
+16,16.0,Steven Defour,Midfielder,1.73 m5-8,65 kg143 lbs,4/15/1988      ,"Mechelen, Belgium ",Burnley
+17,7.0,Johann Gudmundsson,Midfielder,1.79 m5-10,77 kg170 lbs,10/27/1990      ,"Reykjavik, Iceland ",Burnley
+18,13.0,Jeff Hendrick,Midfielder,1.85 m6-1,79 kg174 lbs,1/31/1992      ,"Dublin, Ireland ",Burnley
+19,25.0,Aaron Lennon,Midfielder,1.65 m5-5,63 kg139 lbs,4/16/1987      ,"Leeds, England ",Burnley
+20,18.0,Ashley Westwood,Midfielder,1.75 m5-9,81 kg179 lbs,4/1/1990      ,"Nantwich, England ",Burnley
+21,32.0,Daniel Agyei,Forward,1.83 m6-0,77 kg170 lbs,6/1/1997      ,"London, England ",Burnley
+22,10.0,Ashley Barnes,Forward,1.86 m6-1,77 kg170 lbs,10/30/1989      ,"Bath, England ",Burnley
+23,15.0,Peter Crouch,Forward,2.01 m6-7,75 kg165 lbs,1/30/1981      ,"Macclesfield, England ",Burnley
+24,31.0,Dwight McNeil,Forward,,,11/22/1999      ,"Rochdale, England ",Burnley
+25,27.0,Matej Vydra,Forward,1.80 m5-11,71 kg157 lbs,5/1/1992      ,"Chotebor, Czechoslovakia ",Burnley
+26,19.0,Jonathan Walters,Forward,1.83 m6-0,79 kg174 lbs,9/20/1983      ,"Birkenhead, England ",Burnley
+27,11.0,Chris Wood,Forward,1.91 m6-3,81 kg179 lbs,12/7/1991      ,"Auckland, New Zealand ",Burnley
+0,1.0,Neil Etheridge,Goalkeeper,1.88 m6-2,89 kg196 lbs,2/7/1990      ,"Enfield, England ",Cardiff City
+1,28.0,Brian Murphy,Goalkeeper,1.83 m6-0,86 kg190 lbs,5/7/1983      ,"Waterford, Ireland ",Cardiff City
+2,12.0,Alex Smithies,Goalkeeper,1.89 m6-2,84 kg185 lbs,3/5/1990      ,"Huddersfield, England ",Cardiff City
+3,22.0,Sol Bamba,Defender,1.90 m6-3,90 kg198 lbs,1/13/1985      ,"Ivry-sur-Seine, France ",Cardiff City
+4,3.0,Joe Bennett,Defender,1.83 m6-0,74 kg163 lbs,3/28/1990      ,"Rochdale, England ",Cardiff City
+5,16.0,Matthew Connolly,Defender,1.88 m6-2,84 kg185 lbs,9/24/1987      ,"Barnet, England ",Cardiff City
+6,18.0,Greg Cunningham,Defender,1.83 m6-0,70 kg154 lbs,1/31/1991      ,"Carnmore, Ireland ",Cardiff City
+7,5.0,Bruno Ecuele Manga,Defender,1.86 m6-1,75 kg165 lbs,7/16/1988      ,"Libreville, Gabon ",Cardiff City
+8,4.0,Sean Morrison,Defender,1.93 m6-4,78 kg172 lbs,1/8/1991      ,"Plymouth, England ",Cardiff City
+9,13.0,Callum Paterson,Defender,1.83 m6-0,76 kg168 lbs,10/13/1994      ,"South Queensferry, Scotland ",Cardiff City
+10,2.0,Lee Peltier,Defender,1.78 m5-10,73 kg161 lbs,12/11/1986      ,"Liverpool, England ",Cardiff City
+11,6.0,Jazz Richards,Defender,1.85 m6-1,78 kg172 lbs,4/12/1991      ,"Swansea, Wales ",Cardiff City
+12,7.0,Harry Arter,Midfielder,1.76 m5-9,70 kg154 lbs,12/28/1989      ,"Eltham, England ",Cardiff City
+13,15.0,Leandro Bacuna,Midfielder,1.87 m6-2,77 kg170 lbs,8/21/1991      ,"Groningen, Netherlands ",Cardiff City
+14,21.0,Víctor Camarasa,Midfielder,1.83 m6-0,76 kg168 lbs,5/28/1994      ,"Meliana, Spain ",Cardiff City
+15,20.0,Loïc Damour,Midfielder,1.80 m5-11,74 kg163 lbs,1/8/1991      ,"Soissy, France ",Cardiff City
+16,17.0,Aron Gunnarsson,Midfielder,1.81 m5-11,86 kg190 lbs,4/22/1989      ,"Akureyri, Iceland ",Cardiff City
+17,23.0,Kadeem Harris,Midfielder,1.75 m5-9,67 kg148 lbs,6/8/1993      ,"London, England ",Cardiff City
+18,33.0,David Junior Hoilett,Midfielder,1.73 m5-8,70 kg154 lbs,6/5/1990      ,"Brampton, Canada ",Cardiff City
+19,39.0,Lloyd Humphries,Midfielder,,,, ,Cardiff City
+20,19.0,Nathaniel Mendez-Laing,Midfielder,1.80 m5-11,75 kg165 lbs,4/15/1992      ,"Birmingham, England ",Cardiff City
+21,11.0,Josh Murphy,Midfielder,1.73 m5-8,67 kg148 lbs,2/24/1995      ,"Wembley, England ",Cardiff City
+22,8.0,Joe Ralls,Midfielder,1.83 m6-0,70 kg154 lbs,10/12/1993      ,"Aldershot, England ",Cardiff City
+23,14.0,Bobby Reid,Midfielder,1.70 m5-7,68 kg150 lbs,2/2/1993      ,"Bristol, England ",Cardiff City
+24,29.0,Oumar Niasse,Forward,1.82 m6-0,82 kg181 lbs,4/18/1990      ,"Oukam, Senegal ",Cardiff City
+25,9.0,Danny Ward,Forward,1.78 m5-10,88 kg194 lbs,12/11/1991      ,"Leeds, England ",Cardiff City
+26,10.0,Kenneth Zohore,Forward,1.89 m6-2,79 kg174 lbs,1/31/1994      ,"Copenhagen, Denmark ",Cardiff City
+0,1.0,Kepa Arrizabalaga,Goalkeeper,1.89 m6-2,84 kg185 lbs,10/3/1994      ,"Ondarroa, Spain ",Chelsea
+1,59.0,Marcin Bulka,Goalkeeper,1.98 m6-6,,10/4/1999      ,"Plock, Poland ",Chelsea
+2,13.0,Willy Caballero,Goalkeeper,1.86 m6-1,80 kg176 lbs,9/28/1981      ,"Santa Elena, Argentina ",Chelsea
+3,31.0,Robert Green,Goalkeeper,1.87 m6-2,93 kg205 lbs,1/18/1980      ,"Chertsey, England ",Chelsea
+4,3.0,Marcos Alonso,Defender,1.88 m6-2,84 kg185 lbs,12/28/1990      ,"Madrid, Spain ",Chelsea
+5,28.0,César Azpilicueta,Defender,1.78 m5-10,78 kg172 lbs,8/28/1989      ,"Pamplona, Spain ",Chelsea
+6,24.0,Gary Cahill,Defender,1.91 m6-3,85 kg187 lbs,12/19/1985      ,"Sheffield, England ",Chelsea
+7,27.0,Andreas Christensen,Defender,1.92 m6-4,85 kg187 lbs,4/10/1996      ,"Lillerod, Denmark ",Chelsea
+8,30.0,David Luiz,Defender,1.89 m6-2,84 kg185 lbs,4/22/1987      ,"Diadema, Brazil ",Chelsea
+9,33.0,Emerson,Defender,1.76 m5-9,63 kg139 lbs,8/3/1994      ,"Santos, Brazil ",Chelsea
+10,2.0,Antonio Rüdiger,Defender,1.91 m6-3,85 kg187 lbs,3/3/1993      ,"Berlin, Germany ",Chelsea
+11,21.0,Davide Zappacosta,Defender,1.82 m6-0,72 kg159 lbs,6/11/1992      ,"Sora, Italy ",Chelsea
+12,44.0,Ethan Ampadu,Midfielder,1.82 m6-0,72 kg159 lbs,9/14/2000      ,"Exeter, England ",Chelsea
+13,8.0,Ross Barkley,Midfielder,1.85 m6-1,76 kg168 lbs,12/5/1993      ,"Liverpool, England ",Chelsea
+14,6.0,Daniel Drinkwater,Midfielder,1.78 m5-10,79 kg174 lbs,3/5/1990      ,"Manchester, England ",Chelsea
+15,10.0,Eden Hazard,Midfielder,1.73 m5-8,74 kg163 lbs,1/7/1991      ,"La Louviere, Belgium ",Chelsea
+16,20.0,Callum Hudson-Odoi,Midfielder,1.82 m6-0,75 kg165 lbs,11/7/2000      ,"Wandsworth, England ",Chelsea
+17,5.0,Jorginho,Midfielder,1.80 m5-11,65 kg143 lbs,12/20/1991      ,"Imbituba, Brazil ",Chelsea
+18,7.0,N'Golo Kanté,Midfielder,1.68 m5-6,70 kg154 lbs,3/29/1991      ,"Paris, France ",Chelsea
+19,17.0,Mateo Kovacic,Midfielder,1.78 m5-10,78 kg172 lbs,5/6/1994      ,"Linz, Austria ",Chelsea
+20,12.0,Ruben Loftus-Cheek,Midfielder,1.90 m6-3,73 kg161 lbs,1/23/1996      ,"Lewisham, England ",Chelsea
+21,11.0,Pedro,Midfielder,1.69 m5-7,65 kg143 lbs,7/28/1987      ,"Santa Cruz de Tenerife, Spain ",Chelsea
+22,22.0,Willian,Midfielder,1.75 m5-9,77 kg170 lbs,8/9/1988      ,"Ribeirao Pires, Brazil ",Chelsea
+23,18.0,Olivier Giroud,Forward,1.93 m6-4,91 kg201 lbs,9/30/1986      ,"Chambery, France ",Chelsea
+24,9.0,Gonzalo Higuaín,Forward,1.84 m6-0,75 kg165 lbs,12/10/1987      ,"Brest, France ",Chelsea
+0,31.0,Vicente Guaita,Goalkeeper,1.90 m6-3,80 kg176 lbs,2/18/1987      ,"Aldaia, Spain ",Crystal Palace
+1,13.0,Wayne Hennessey,Goalkeeper,1.98 m6-6,90 kg198 lbs,1/24/1987      ,"Anglesey, Wales ",Crystal Palace
+2,22.0,Lucas Perri,Goalkeeper,1.96 m6-5,95 kg209 lbs,12/10/1997      ,"Campinas, Brazil ",Crystal Palace
+3,1.0,Julian Speroni,Goalkeeper,1.86 m6-1,87 kg192 lbs,5/18/1979      ,"Buenos Aires, Argentina ",Crystal Palace
+4,41.0,Joe Tupper,Goalkeeper,,,11/15/1997      ,England ,Crystal Palace
+5,6.0,Scott Dann,Defender,1.88 m6-2,78 kg172 lbs,2/14/1987      ,"Liverpool, England ",Crystal Palace
+6,34.0,Martin Kelly,Defender,1.91 m6-3,77 kg170 lbs,4/27/1990      ,"Whiston, England ",Crystal Palace
+7,44.0,Jairo Riedewald,Defender,1.82 m6-0,79 kg174 lbs,9/9/1996      ,"Haarlem, Netherlands ",Crystal Palace
+8,12.0,Mamadou Sakho,Defender,1.87 m6-2,80 kg176 lbs,2/13/1990      ,"Paris, France ",Crystal Palace
+9,15.0,Jeffrey Schlupp,Defender,1.78 m5-10,72 kg159 lbs,12/23/1992      ,"Hamburg, Germany ",Crystal Palace
+10,27.0,Pape Souaré,Defender,1.78 m5-10,68 kg150 lbs,6/6/1990      ,"Mbao, Senegal ",Crystal Palace
+11,5.0,James Tomkins,Defender,1.92 m6-4,74 kg163 lbs,3/29/1989      ,"Basildon, England ",Crystal Palace
+12,3.0,Patrick van Aanholt,Defender,1.76 m5-9,67 kg148 lbs,8/29/1990      ,"Den Bosch, Netherlands ",Crystal Palace
+13,2.0,Joel Ward,Defender,1.88 m6-2,83 kg183 lbs,10/29/1989      ,"Emsworth, England ",Crystal Palace
+14,,Sam Woods,Defender,,,9/11/1998      ,England ,Crystal Palace
+15,8.0,Cheikhou Kouyaté,Midfielder,1.89 m6-2,75 kg165 lbs,12/21/1989      ,"Dakar, Senegal ",Crystal Palace
+16,18.0,James McArthur,Midfielder,1.78 m5-10,64 kg141 lbs,10/7/1987      ,"Glasgow, Scotland ",Crystal Palace
+17,,Gio McGregor,Midfielder,,,1/9/1999      ,England ,Crystal Palace
+18,7.0,Max Meyer,Midfielder,1.73 m5-8,67 kg148 lbs,9/18/1995      ,"Oberhausen, Germany ",Crystal Palace
+19,4.0,Luka Milivojevic,Midfielder,1.86 m6-1,80 kg176 lbs,4/7/1991      ,"Kragujevac, Yugoslavia ",Crystal Palace
+20,26.0,Bakary Sako,Midfielder,1.83 m6-0,90 kg198 lbs,4/26/1988      ,"Ivry-sur-Seine, France ",Crystal Palace
+21,10.0,Andros Townsend,Midfielder,1.81 m5-11,77 kg170 lbs,7/16/1991      ,"Leytonstone, England ",Crystal Palace
+22,11.0,Wilfried Zaha,Midfielder,1.80 m5-11,66 kg146 lbs,11/10/1992      ,"Abidjan, Ivory Coast ",Crystal Palace
+23,14.0,Jordan Ayew,Forward,1.82 m6-0,81 kg179 lbs,9/11/1991      ,"Marseille, France ",Crystal Palace
+24,23.0,Michy Batshuayi,Forward,1.85 m6-1,78 kg172 lbs,10/2/1993      ,"Brussels, Belgium ",Crystal Palace
+25,17.0,Christian Benteke,Forward,1.90 m6-3,83 kg183 lbs,12/3/1990      ,"Kinshasa, DR Congo ",Crystal Palace
+26,29.0,Aaron Wan-Bissaka,Forward,1.83 m6-0,72 kg159 lbs,11/26/1997      ,"Croydon, England ",Crystal Palace
+27,21.0,Connor Wickham,Forward,1.91 m6-3,90 kg198 lbs,3/31/1993      ,"Colchester, England ",Crystal Palace
+0,41.0,Mateusz Hewelt,Goalkeeper,1.83 m6-0,64 kg141 lbs,9/23/1996      ,"Gdynia, Poland ",Everton
+1,1.0,Jordan Pickford,Goalkeeper,1.85 m6-1,72 kg159 lbs,3/7/1994      ,"Washington, England ",Everton
+2,22.0,Maarten Stekelenburg,Goalkeeper,1.97 m6-6,92 kg203 lbs,9/22/1982      ,"Haarlem, Netherlands ",Everton
+3,33.0,João Virgínia,Goalkeeper,1.90 m6-3,80 kg176 lbs,10/10/1999      ,"Faro, Portugal ",Everton
+4,3.0,Leighton Baines,Defender,1.70 m5-7,70 kg154 lbs,12/11/1984      ,"Kirkby, England ",Everton
+5,35.0,Tyias Browning,Defender,1.81 m5-11,76 kg168 lbs,5/27/1994      ,"Liverpool, England ",Everton
+6,23.0,Seamus Coleman,Defender,1.93 m6-4,67 kg148 lbs,10/11/1988      ,"Donegal, Ireland ",Everton
+7,12.0,Lucas Digne,Defender,1.78 m5-10,74 kg163 lbs,7/20/1993      ,"Meaux, France ",Everton
+8,6.0,Phil Jagielka,Defender,1.80 m5-11,87 kg192 lbs,8/17/1982      ,"Sale, England ",Everton
+9,4.0,Michael Keane,Defender,1.91 m6-3,82 kg181 lbs,1/11/1993      ,"Stockport, England ",Everton
+10,43.0,Jonjoe Kenny,Defender,1.76 m5-9,67 kg148 lbs,3/15/1997      ,"Kirkdale, England ",Everton
+11,13.0,Yerry Mina,Defender,1.94 m6-4,95 kg209 lbs,9/23/1994      ,"Guachene, Colombia ",Everton
+12,5.0,Kurt Zouma,Defender,1.90 m6-3,92 kg203 lbs,10/27/1994      ,"Lyon, France ",Everton
+13,20.0,Bernard,Midfielder,1.64 m5-5,52 kg115 lbs,9/8/1992      ,"Belo Horizonte, Brazil ",Everton
+14,26.0,Tom Davies,Midfielder,1.80 m5-11,70 kg154 lbs,6/30/1998      ,"Liverpool, England ",Everton
+15,8.0,André Gomes,Midfielder,1.88 m6-2,84 kg185 lbs,7/30/1993      ,"Vila Nova de Gaia, Portugal ",Everton
+16,17.0,Idrissa Gueye,Midfielder,1.74 m5-9,64 kg141 lbs,9/26/1989      ,"Dakar, Senegal ",Everton
+17,16.0,James McCarthy,Midfielder,1.80 m5-11,72 kg159 lbs,11/12/1990      ,"Glasgow, Scotland ",Everton
+18,18.0,Morgan Schneiderlin,Midfielder,1.81 m5-11,75 kg165 lbs,11/8/1989      ,"Zellwiller, France ",Everton
+19,10.0,Gylfi Sigurdsson,Midfielder,1.86 m6-1,82 kg181 lbs,9/8/1989      ,"Reykjavik, Iceland ",Everton
+20,29.0,Dominic Calvert-Lewin,Forward,1.76 m5-9,64 kg141 lbs,3/16/1997      ,"Sheffield, England ",Everton
+21,31.0,Ademola Lookman,Forward,1.74 m5-9,78 kg172 lbs,10/20/1997      ,"Wandsworth, England ",Everton
+22,30.0,Richarlison,Forward,1.79 m5-10,71 kg157 lbs,5/10/1997      ,"Nova Venecia, Brazil ",Everton
+23,14.0,Cenk Tosun,Forward,1.83 m6-0,78 kg172 lbs,6/7/1991      ,"Wetzlar, Germany ",Everton
+24,11.0,Theo Walcott,Forward,1.75 m5-9,68 kg150 lbs,3/16/1989      ,"Middlesex, England ",Everton
+0,50.0,Luca Ashby-Hammond,Goalkeeper,1.84 m6-0,75 kg165 lbs,3/25/2001      ,"Kingston upon Thames, England ",Fulham
+1,1.0,Marcus Bettinelli,Goalkeeper,1.94 m6-4,82 kg181 lbs,5/24/1992      ,"Camberwell, England ",Fulham
+2,31.0,Fabri,Goalkeeper,1.85 m6-1,67 kg148 lbs,12/31/1987      ,"Vecindario, Spain ",Fulham
+3,25.0,Sergio Rico,Goalkeeper,1.94 m6-4,90 kg198 lbs,9/1/1993      ,"Sevilla, Spain ",Fulham
+4,23.0,Joe Bryan,Defender,1.70 m5-7,72 kg159 lbs,9/17/1993      ,"Bristol, England ",Fulham
+5,5.0,Calum Chambers,Defender,1.82 m6-0,66 kg146 lbs,1/20/1995      ,"Petersfield, England ",Fulham
+6,22.0,Cyrus Christie,Defender,1.88 m6-2,78 kg172 lbs,9/30/1992      ,"Coventry, England ",Fulham
+7,21.0,Timothy Fosu-Mensah,Defender,1.90 m6-3,79 kg174 lbs,1/2/1998      ,"Amsterdam, Netherlands ",Fulham
+8,20.0,Maxime Le Marchand,Defender,1.85 m6-1,77 kg170 lbs,10/11/1989      ,"Saint-Malo, France ",Fulham
+9,26.0,Alfie Mawson,Defender,1.82 m6-0,81 kg179 lbs,1/19/1994      ,"Hillingdon, England ",Fulham
+10,4.0,Denis Odoi,Defender,1.78 m5-10,72 kg159 lbs,5/27/1988      ,"Leuven, Belgium ",Fulham
+11,13.0,Tim Ream,Defender,1.86 m6-1,79 kg174 lbs,10/5/1987      ,"St. Louis, Missouri ",Fulham
+12,3.0,Ryan Sessegnon,Defender,1.78 m5-10,71 kg157 lbs,5/18/2000      ,"Roehampton, England ",Fulham
+13,43.0,Steven Sessegnon,Defender,1.73 m5-8,66 kg146 lbs,5/18/2000      ,"Roehampton, England ",Fulham
+14,10.0,Tom Cairney,Midfielder,1.86 m6-1,84 kg185 lbs,1/20/1991      ,"Nottingham, England ",Fulham
+15,44.0,Ibrahima Cissé,Midfielder,1.80 m5-11,84 kg185 lbs,2/28/1994      ,"Liege, Belgium ",Fulham
+16,36.0,Luca De La Torre,Midfielder,1.77 m5-10,68 kg150 lbs,5/23/1998      ,"San Diego, California ",Fulham
+17,7.0,Neeskens Kebano,Midfielder,1.70 m5-7,65 kg143 lbs,3/10/1992      ,"Montereau, France ",Fulham
+18,30.0,Lazar Markovic,Midfielder,1.75 m5-9,65 kg143 lbs,3/2/1994      ,"Cacak, Yugoslavia ",Fulham
+19,6.0,Kevin McDonald,Midfielder,1.92 m6-4,95 kg209 lbs,11/4/1988      ,"Carnoustie, Scotland ",Fulham
+20,,Håvard Nordtveit,Midfielder,1.88 m6-2,83 kg183 lbs,6/21/1990      ,"Vats, Norway ",Fulham
+21,33.0,Matt O'Riley,Midfielder,1.87 m6-2,77 kg170 lbs,11/21/2000      ,"Hounslow, England ",Fulham
+22,14.0,André Schürrle,Midfielder,1.84 m6-0,73 kg161 lbs,11/6/1990      ,"Ludwigshafen, Germany ",Fulham
+23,24.0,Jean Michael Seri,Midfielder,1.68 m5-6,65 kg143 lbs,7/19/1991      ,"Grand-Bereby, Ivory Coast ",Fulham
+24,29.0,André-Frank Zambo Anguissa,Midfielder,1.84 m6-0,78 kg172 lbs,11/16/1995      ,"Yaounde, Cameroon ",Fulham
+25,11.0,Floyd Ayité,Forward,1.75 m5-9,74 kg163 lbs,12/15/1988      ,"Bordeaux, France ",Fulham
+26,12.0,Ryan Babel,Forward,1.85 m6-1,85 kg187 lbs,12/19/1986      ,"Amsterdam, Netherlands ",Fulham
+27,56.0,Harvey Elliott,Forward,,,4/4/2003      ,England ,Fulham
+28,9.0,Aleksandar Mitrovic,Forward,1.89 m6-2,82 kg181 lbs,9/16/1994      ,"Smederevo, Yugoslavia ",Fulham
+29,19.0,Luciano Vietto,Forward,1.74 m5-9,69 kg152 lbs,12/5/1993      ,"Balnearia, Argentina ",Fulham
+0,12.0,Joel Coleman,Goalkeeper,1.98 m6-6,82 kg181 lbs,9/26/1995      ,"Bolton, England ",Huddersfield Town
+1,12.0,Ben Hamer,Goalkeeper,1.92 m6-4,91 kg201 lbs,11/20/1987      ,"Taunton, England ",Huddersfield Town
+2,1.0,Jonas Lössl,Goalkeeper,1.95 m6-5,90 kg198 lbs,2/1/1989      ,"Kolding, Denmark ",Huddersfield Town
+3,37.0,Erik Durm,Defender,1.83 m6-0,72 kg159 lbs,5/12/1992      ,"Pirmasens, Germany ",Huddersfield Town
+4,27.0,Jon Gorenc Stankovic,Defender,1.90 m6-3,78 kg172 lbs,1/14/1996      ,"Ljubljana, Slovenia ",Huddersfield Town
+5,33.0,Florent Hadergjonaj,Defender,1.82 m6-0,73 kg161 lbs,7/31/1994      ,"Langnau, Switzerland ",Huddersfield Town
+6,5.0,Terence Kongolo,Defender,1.88 m6-2,70 kg154 lbs,2/14/1994      ,"Fribourg, Switzerland ",Huddersfield Town
+7,15.0,Chris Löwe,Defender,1.75 m5-9,68 kg150 lbs,4/16/1989      ,"Plauen, East Germany ",Huddersfield Town
+8,26.0,Christopher Schindler,Defender,1.89 m6-2,77 kg170 lbs,4/29/1990      ,"Munich, West Germany ",Huddersfield Town
+9,2.0,Tommy Smith,Defender,1.86 m6-1,84 kg185 lbs,4/14/1992      ,"Warrington, England ",Huddersfield Town
+10,25.0,Zanka,Defender,1.91 m6-3,85 kg187 lbs,4/23/1990      ,"Copenhagen, Denmark ",Huddersfield Town
+11,7.0,Juninho Bacuna,Midfielder,1.85 m6-1,78 kg172 lbs,8/7/1997      ,"Groningen, Netherlands ",Huddersfield Town
+12,8.0,Philip Billing,Midfielder,1.93 m6-4,80 kg176 lbs,6/11/1996      ,Denmark ,Huddersfield Town
+13,11.0,Adama Diakhaby,Midfielder,1.88 m6-2,74 kg163 lbs,7/5/1996      ,"Ajaccio, France ",Huddersfield Town
+14,6.0,Jonathan Hogg,Midfielder,1.70 m5-7,73 kg161 lbs,12/6/1988      ,"Middlesbrough, England ",Huddersfield Town
+15,9.0,Elias Kachunga,Midfielder,1.78 m5-10,64 kg141 lbs,4/22/1992      ,"Cologne, Germany ",Huddersfield Town
+16,10.0,Aaron Mooy,Midfielder,1.73 m5-8,72 kg159 lbs,9/15/1990      ,"Sydney, Australia ",Huddersfield Town
+17,21.0,Alex Pritchard,Midfielder,1.71 m5-7,62 kg137 lbs,5/3/1993      ,"Orsett, England ",Huddersfield Town
+18,42.0,Jason Puncheon,Midfielder,1.73 m5-8,71 kg157 lbs,6/26/1986      ,"Croydon, England ",Huddersfield Town
+19,29.0,Abdelhamid Sabiri,Midfielder,1.83 m6-0,80 kg176 lbs,11/28/1996      ,"Goulmima, Morocco ",Huddersfield Town
+20,19.0,Danny Williams,Midfielder,1.82 m6-0,76 kg168 lbs,3/8/1989      ,"Karlsruhe, West Germany ",Huddersfield Town
+21,20.0,Laurent Depoitre,Forward,1.91 m6-3,96 kg212 lbs,12/7/1988      ,"Tournai, Belgium ",Huddersfield Town
+22,16.0,Karlan Grant,Forward,1.83 m6-0,70 kg154 lbs,12/19/1997      ,"Greenwich, England ",Huddersfield Town
+23,18.0,Isaac Mbenza,Forward,1.87 m6-2,77 kg170 lbs,3/8/1996      ,"Saint-Denis, Belgium ",Huddersfield Town
+24,24.0,Steve Mounie,Forward,1.90 m6-3,83 kg183 lbs,9/29/1994      ,"Parakou, Benin ",Huddersfield Town
+0,17.0,Eldin Jakupovic,Goalkeeper,1.91 m6-3,85 kg187 lbs,10/2/1984      ,"Sarajevo, Yugoslavia ",Leicester City
+1,1.0,Kasper Schmeichel,Goalkeeper,1.90 m6-3,92 kg203 lbs,11/5/1986      ,"Copenhagen, Denmark ",Leicester City
+2,12.0,Danny Ward,Goalkeeper,1.92 m6-4,88 kg194 lbs,6/22/1993      ,"Wrexham, Wales ",Leicester City
+3,3.0,Ben Chilwell,Defender,1.78 m5-10,77 kg170 lbs,12/21/1996      ,"Bedford, England ",Leicester City
+4,6.0,Jonny Evans,Defender,1.88 m6-2,77 kg170 lbs,1/3/1988      ,"Belfast, Northern Ireland ",Leicester City
+5,28.0,Christian Fuchs,Defender,1.87 m6-2,89 kg196 lbs,4/7/1986      ,"Neunkirchen, Austria ",Leicester City
+6,15.0,Harry Maguire,Defender,1.93 m6-4,98 kg216 lbs,3/5/1993      ,"Sheffield, England ",Leicester City
+7,5.0,Wes Morgan,Defender,1.87 m6-2,101 kg223 lbs,1/21/1984      ,"Nottingham, England ",Leicester City
+8,14.0,Ricardo Pereira,Defender,1.74 m5-9,70 kg154 lbs,10/6/1993      ,"Lisbon, Portugal ",Leicester City
+9,2.0,Danny Simpson,Defender,1.76 m5-9,80 kg176 lbs,1/4/1987      ,"Salford, England ",Leicester City
+10,4.0,Caglar Söyüncü,Defender,1.87 m6-2,82 kg181 lbs,5/23/1996      ,"Izmir, Turkey ",Leicester City
+11,11.0,Marc Albrighton,Midfielder,1.75 m5-9,74 kg163 lbs,11/18/1989      ,"Tamworth, England ",Leicester City
+12,18.0,Daniel Amartey,Midfielder,1.86 m6-1,79 kg174 lbs,12/21/1994      ,"Accra, Ghana ",Leicester City
+13,19.0,Harvey Barnes,Midfielder,1.81 m5-11,66 kg146 lbs,12/9/1997      ,"Burnley, England ",Leicester City
+14,38.0,Hamza Choudhury,Midfielder,1.78 m5-10,64 kg141 lbs,10/1/1997      ,"Loughborough, England ",Leicester City
+15,31.0,Rachid Ghezzal,Midfielder,1.82 m6-0,70 kg154 lbs,5/9/1992      ,"Decines-Charpieu, France ",Leicester City
+16,7.0,Demarai Gray,Midfielder,,,6/28/1996      ,"Birmingham, England ",Leicester City
+17,22.0,Matty James,Midfielder,1.81 m5-11,86 kg190 lbs,7/22/1991      ,"Bacup, England ",Leicester City
+18,59.0,Thakgalo Leshabela,Midfielder,,,9/18/1999      , ,Leicester City
+19,10.0,James Maddison,Midfielder,1.75 m5-9,73 kg161 lbs,11/23/1996      ,"Coventry, England ",Leicester City
+20,24.0,Nampalys Mendy,Midfielder,1.68 m5-6,68 kg150 lbs,6/23/1992      ,"La Seyne-sur-Mer, France ",Leicester City
+21,25.0,Wilfred Ndidi,Midfielder,1.84 m6-0,73 kg161 lbs,12/16/1996      ,"Lagos, Nigeria ",Leicester City
+22,21.0,Youri Tielemans,Midfielder,1.76 m5-9,72 kg159 lbs,5/7/1997      ,"Sint-Pieters-Leeuw, Belgium ",Leicester City
+23,8.0,Kelechi Iheanacho,Forward,1.83 m6-0,80 kg176 lbs,3/10/1996      ,"Imo, Nigeria ",Leicester City
+24,20.0,Shinji Okazaki,Forward,1.74 m5-9,70 kg154 lbs,4/16/1986      ,"Takarazuka, Japan ",Leicester City
+25,9.0,Jamie Vardy,Forward,1.78 m5-10,80 kg176 lbs,1/11/1987      ,"Sheffield, England ",Leicester City
+0,13.0,Alisson,Goalkeeper,1.93 m6-4,91 kg201 lbs,10/2/1992      ,"Novo Hamburgo, Brazil ",Liverpool
+1,62.0,Caoimhin Kelleher,Goalkeeper,,,11/23/1998      ,"Cork, Ireland ",Liverpool
+2,22.0,Simon Mignolet,Goalkeeper,1.93 m6-4,87 kg192 lbs,3/6/1988      ,"Sint-Truiden, Belgium ",Liverpool
+3,66.0,Trent Alexander-Arnold,Defender,1.75 m5-9,70 kg154 lbs,10/7/1998      ,"Liverpool, England ",Liverpool
+4,3.0,Fabinho,Defender,1.88 m6-2,78 kg172 lbs,10/23/1993      ,"Campinas, Brazil ",Liverpool
+5,12.0,Joseph Gomez,Defender,1.85 m6-1,77 kg170 lbs,5/23/1997      ,"Catford, England ",Liverpool
+6,6.0,Dejan Lovren,Defender,1.88 m6-2,84 kg185 lbs,7/5/1989      ,"Zenica, Yugoslavia ",Liverpool
+7,32.0,Joel Matip,Defender,1.95 m6-5,90 kg198 lbs,8/8/1991      ,"Bochum, Germany ",Liverpool
+8,18.0,Alberto Moreno,Defender,1.71 m5-7,65 kg143 lbs,7/5/1992      ,"Seville, Spain ",Liverpool
+9,47.0,Nathaniel Phillips,Defender,,,3/21/1997      ,"Bolton, England ",Liverpool
+10,26.0,Andrew Robertson,Defender,1.78 m5-10,64 kg141 lbs,3/11/1994      ,"Glasgow, Scotland ",Liverpool
+11,4.0,Virgil van Dijk,Defender,1.93 m6-4,92 kg203 lbs,7/8/1991      ,"Breda, Netherlands ",Liverpool
+12,64.0,Rafael Camacho,Midfielder,1.75 m5-9,68 kg150 lbs,5/22/2000      ,Lisbon ,Liverpool
+13,68.0,Pedro Chirivella,Midfielder,1.78 m5-10,70 kg154 lbs,5/23/1997      ,"Valencia, Spain ",Liverpool
+14,14.0,Jordan Henderson,Midfielder,1.83 m6-0,82 kg181 lbs,6/17/1990      ,"Sunderland, England ",Liverpool
+15,48.0,Curtis Jones,Midfielder,,,1/30/2001      ,"Liverpool, England ",Liverpool
+16,8.0,Naby Keita,Midfielder,1.72 m5-8,64 kg141 lbs,2/10/1995      ,"Conakry, Guinea ",Liverpool
+17,20.0,Adam Lallana,Midfielder,1.72 m5-8,73 kg161 lbs,5/10/1988      ,"St. Albans, England ",Liverpool
+18,7.0,James Milner,Midfielder,1.76 m5-9,70 kg154 lbs,1/4/1986      ,"Horsforth, England ",Liverpool
+19,21.0,Alex Oxlade-Chamberlain,Midfielder,1.80 m5-11,70 kg154 lbs,8/15/1993      ,"Portsmouth, England ",Liverpool
+20,23.0,Xherdan Shaqiri,Midfielder,1.65 m5-5,78 kg172 lbs,10/10/1991      ,"Gnjilane, Yugoslavia ",Liverpool
+21,5.0,Georginio Wijnaldum,Midfielder,1.75 m5-9,74 kg163 lbs,11/11/1990      ,"Rotterdam, Netherlands ",Liverpool
+22,24.0,Rhian Brewster,Forward,1.80 m5-11,75 kg165 lbs,4/1/2000      ,"Redbridge, England ",Liverpool
+23,9.0,Roberto Firmino,Forward,1.81 m5-11,76 kg168 lbs,10/2/1991      ,"Maceio, Brazil ",Liverpool
+24,10.0,Sadio Mané,Forward,1.75 m5-9,69 kg152 lbs,4/10/1992      ,"Sedhiou, Senegal ",Liverpool
+25,27.0,Divock Origi,Forward,1.85 m6-1,75 kg165 lbs,4/18/1995      ,"Ostend, Belgium ",Liverpool
+26,11.0,Mohamed Salah,Forward,1.75 m5-9,71 kg157 lbs,6/15/1992      ,"Basyoun, Egypt ",Liverpool
+27,15.0,Daniel Sturridge,Forward,1.88 m6-2,76 kg168 lbs,9/1/1989      ,"Birmingham, England ",Liverpool
+0,1.0,Claudio Bravo,Goalkeeper,1.84 m6-0,80 kg176 lbs,4/13/1983      ,"Viluco, Chile ",Manchester City
+1,31.0,Ederson,Goalkeeper,1.88 m6-2,86 kg190 lbs,8/17/1993      ,"Osasco, Brazil ",Manchester City
+2,32.0,Daniel Grimshaw,Goalkeeper,,,1/16/1998      ,"Manchester, England ",Manchester City
+3,49.0,Arijanet Muric,Goalkeeper,1.97 m6-6,81 kg179 lbs,11/7/1998      ,Switzerland ,Manchester City
+4,3.0,Danilo,Defender,1.84 m6-0,78 kg172 lbs,7/15/1991      ,"Bicas, Brazil ",Manchester City
+5,50.0,Eric Garcia,Defender,1.82 m6-0,,1/9/2001      ,Spain ,Manchester City
+6,4.0,Vincent Kompany,Defender,1.90 m6-3,85 kg187 lbs,4/10/1986      ,"Ukkel, Belgium ",Manchester City
+7,14.0,Aymeric Laporte,Defender,1.89 m6-2,85 kg187 lbs,5/27/1994      ,"Agen, France ",Manchester City
+8,15.0,Eliaquim Mangala,Defender,1.88 m6-2,81 kg179 lbs,2/13/1991      ,"Colombes, France ",Manchester City
+9,22.0,Benjamin Mendy,Defender,1.83 m6-0,84 kg185 lbs,7/17/1994      ,"Longjumeau, France ",Manchester City
+10,30.0,Nicolás Otamendi,Defender,1.81 m5-11,81 kg179 lbs,2/12/1988      ,"Buenos Aires, Argentina ",Manchester City
+11,34.0,Philippe Sandler,Defender,1.88 m6-2,76 kg168 lbs,2/10/1997      ,"Amsterdam, Netherlands ",Manchester City
+12,5.0,John Stones,Defender,1.88 m6-2,72 kg159 lbs,5/28/1994      ,"Barnsley, England ",Manchester City
+13,2.0,Kyle Walker,Defender,1.78 m5-10,83 kg183 lbs,5/28/1990      ,"Sheffield, England ",Manchester City
+14,,Adrian Bernabe,Midfielder,,,5/26/2001      ,Spain ,Manchester City
+15,17.0,Kevin De Bruyne,Midfielder,1.81 m5-11,70 kg154 lbs,6/28/1991      ,"Drongen, Belgium ",Manchester City
+16,18.0,Fabian Delph,Midfielder,1.74 m5-9,78 kg172 lbs,11/21/1989      ,"Bradford, England ",Manchester City
+17,25.0,Fernandinho,Midfielder,1.79 m5-10,67 kg148 lbs,5/4/1985      ,"Londrina, Brazil ",Manchester City
+18,47.0,Phil Foden,Midfielder,1.71 m5-7,59 kg130 lbs,5/28/2000      ,"Stockport, England ",Manchester City
+19,81.0,Claudio Gomes,Midfielder,1.80 m5-11,,7/23/2000      ,"Argenteuil, France ",Manchester City
+20,8.0,Ilkay Gündogan,Midfielder,1.80 m5-11,79 kg174 lbs,10/24/1990      ,"Gelsenkirchen, Germany ",Manchester City
+21,26.0,Riyad Mahrez,Midfielder,1.79 m5-10,67 kg148 lbs,2/21/1991      ,"Sarcelles, France ",Manchester City
+22,,Felix Nmecha,Midfielder,,,10/10/2000      ,England ,Manchester City
+23,19.0,Leroy Sané,Midfielder,1.83 m6-0,75 kg165 lbs,1/11/1996      ,"Essen, Germany ",Manchester City
+24,20.0,Bernardo Silva,Midfielder,1.73 m5-8,65 kg143 lbs,8/10/1994      ,"Lisbon, Portugal ",Manchester City
+25,21.0,David Silva,Midfielder,1.70 m5-7,67 kg148 lbs,1/8/1986      ,"Arguineguin, Spain ",Manchester City
+26,7.0,Raheem Sterling,Midfielder,1.70 m5-7,70 kg154 lbs,12/8/1994      ,"Kingston, Jamaica ",Manchester City
+27,35.0,Oleksandr Zinchenko,Midfielder,1.75 m5-9,61 kg134 lbs,12/15/1996      ,"Radomyshl, Ukraine ",Manchester City
+28,10.0,Sergio Agüero,Forward,1.72 m5-8,74 kg163 lbs,6/2/1988      ,"Quilmes, Argentina ",Manchester City
+29,74.0,Luke Bolton,Forward,,,10/7/1999      ,"Manchester, England ",Manchester City
+30,33.0,Gabriel Jesus,Forward,1.75 m5-9,73 kg161 lbs,4/3/1997      ,"Sao Paulo, Brazil ",Manchester City
+0,1.0,David De Gea,Goalkeeper,1.90 m6-3,71 kg157 lbs,11/7/1990      ,"Madrid, Spain ",Manchester United
+1,13.0,Lee Grant,Goalkeeper,1.93 m6-4,83 kg183 lbs,1/27/1983      ,"Hemel Hempstead, England ",Manchester United
+2,51.0,Matej Kovar,Goalkeeper,,,5/17/2000      ,Czech Republic ,Manchester United
+3,22.0,Sergio Romero,Goalkeeper,1.92 m6-4,87 kg192 lbs,2/22/1987      ,"Bernardo de Irigoyen, Argentina ",Manchester United
+4,3.0,Eric Bailly,Defender,1.87 m6-2,77 kg170 lbs,4/12/1994      ,"Bingerville, Ivory Coast ",Manchester United
+5,20.0,Diogo Dalot,Defender,1.83 m6-0,76 kg168 lbs,3/18/1999      ,"Braga, Portugal ",Manchester United
+6,36.0,Matteo Darmian,Defender,1.82 m6-0,70 kg154 lbs,12/2/1989      ,"Legnano, Italy ",Manchester United
+7,4.0,Phil Jones,Defender,1.82 m6-0,72 kg159 lbs,2/21/1992      ,"Preston, England ",Manchester United
+8,2.0,Victor Lindelöf,Defender,1.87 m6-2,81 kg179 lbs,7/17/1994      ,"Vasteras, Sweden ",Manchester United
+9,16.0,Marcos Rojo,Defender,1.89 m6-2,82 kg181 lbs,3/20/1990      ,"La Plata, Argentina ",Manchester United
+10,23.0,Luke Shaw,Defender,1.84 m6-0,75 kg165 lbs,7/12/1995      ,"Kingston-upon-Thames, England ",Manchester United
+11,12.0,Chris Smalling,Defender,1.94 m6-4,90 kg198 lbs,11/22/1989      ,"Greenwich, England ",Manchester United
+12,25.0,Antonio Valencia,Defender,1.80 m5-11,78 kg172 lbs,8/4/1985      ,"Nueva Loja, Ecuador ",Manchester United
+13,17.0,Fred,Midfielder,1.69 m5-7,64 kg141 lbs,3/5/1993      ,"Belo Horizonte, Brazil ",Manchester United
+14,37.0,James Garner,Midfielder,,,3/13/2001      ,"Birkenhead, England ",Manchester United
+15,21.0,Ander Herrera,Midfielder,1.82 m6-0,73 kg161 lbs,8/14/1989      ,"Bilbao, Spain ",Manchester United
+16,14.0,Jesse Lingard,Midfielder,1.75 m5-9,60 kg132 lbs,12/15/1992      ,"Warrington, England ",Manchester United
+17,8.0,Juan Mata,Midfielder,1.71 m5-7,61 kg134 lbs,4/28/1988      ,"Burgos, Spain ",Manchester United
+18,31.0,Nemanja Matic,Midfielder,1.94 m6-4,86 kg190 lbs,8/1/1988      ,"Sabac, Yugoslavia ",Manchester United
+19,39.0,Scott McTominay,Midfielder,1.78 m5-10,65 kg143 lbs,12/8/1996      ,"Lancaster, England ",Manchester United
+20,15.0,Andreas Pereira,Midfielder,1.78 m5-10,71 kg157 lbs,1/1/1996      ,"Duffel, Belgium ",Manchester United
+21,6.0,Paul Pogba,Midfielder,1.91 m6-3,86 kg190 lbs,3/15/1993      ,"Lagny-sur-Marne, France ",Manchester United
+22,18.0,Ashley Young,Midfielder,1.75 m5-9,78 kg172 lbs,7/9/1985      ,"Stevenage, England ",Manchester United
+23,46.0,Joshua Bohui,Forward,1.80 m5-11,,3/3/1999      , ,Manchester United
+24,44.0,Tahith Chong,Forward,1.85 m6-1,,12/4/1999      ,"Willemstad, Netherlands ",Manchester United
+25,47.0,Angel Gomes,Forward,1.61 m5-3,52 kg115 lbs,8/31/2000      ,"London, England ",Manchester United
+26,54.0,Mason Greenwood,Forward,,,10/1/2001      ,England ,Manchester United
+27,9.0,Romelu Lukaku,Forward,1.90 m6-3,94 kg207 lbs,5/13/1993      ,"Antwerp, Belgium ",Manchester United
+28,11.0,Anthony Martial,Forward,1.81 m5-11,76 kg168 lbs,12/5/1995      ,"Massy, France ",Manchester United
+29,10.0,Marcus Rashford,Forward,1.80 m5-11,78 kg172 lbs,10/31/1997      ,"Manchester, England ",Manchester United
+30,7.0,Alexis Sánchez,Forward,1.69 m5-7,70 kg154 lbs,12/19/1988      ,"Tocopilla, Chile ",Manchester United
+0,26.0,Karl Darlow,Goalkeeper,1.85 m6-1,79 kg174 lbs,10/8/1990      ,"Northampton, England ",Newcastle United
+1,12.0,Martin Dubravka,Goalkeeper,1.90 m6-3,80 kg176 lbs,1/15/1989      ,"Zilina, Czechoslovakia ",Newcastle United
+2,1.0,Robert Elliot,Goalkeeper,1.90 m6-3,98 kg216 lbs,4/30/1986      ,"Greenwich, England ",Newcastle United
+3,29.0,Nathan Harker,Goalkeeper,,,11/5/1998      ,England ,Newcastle United
+4,41.0,Freddie Woodman,Goalkeeper,1.90 m6-3,69 kg152 lbs,3/4/1997      ,"London, England ",Newcastle United
+5,23.0,Antonio Barreca,Defender,1.80 m5-11,70 kg154 lbs,3/18/1995      ,"Turin, Italy ",Newcastle United
+6,2.0,Ciaran Clark,Defender,1.88 m6-2,76 kg168 lbs,9/26/1989      ,"Harrow, England ",Newcastle United
+7,3.0,Paul Dummett,Defender,1.83 m6-0,77 kg170 lbs,9/26/1991      ,"Newcastle, England ",Newcastle United
+8,18.0,Federico Fernández,Defender,1.90 m6-3,83 kg183 lbs,2/21/1989      ,"Tres Algarrobos, Argentina ",Newcastle United
+9,6.0,Jamaal Lascelles,Defender,1.89 m6-2,83 kg183 lbs,11/11/1993      ,"Derby, England ",Newcastle United
+10,20.0,Florian Lejeune,Defender,1.90 m6-3,81 kg179 lbs,5/20/1991      ,"Paris, France ",Newcastle United
+11,19.0,Javier Manquillo,Defender,1.80 m5-11,75 kg165 lbs,5/5/1994      ,"Madrid, Spain ",Newcastle United
+12,5.0,Fabian Schär,Defender,1.86 m6-1,83 kg183 lbs,12/20/1991      ,"Wil, Switzerland ",Newcastle United
+13,22.0,DeAndre Yedlin,Defender,1.73 m5-8,73 kg161 lbs,7/9/1993      ,"Seattle, Washington ",Newcastle United
+14,24.0,Miguel Almiron,Midfielder,1.75 m5-9,64 kg141 lbs,2/10/1994      ,"Asuncion, Paraguay ",Newcastle United
+15,30.0,Christian Atsu,Midfielder,1.72 m5-8,68 kg150 lbs,1/10/1992      ,"Ada Foah, Ghana ",Newcastle United
+16,14.0,Kieran Cummings,Midfielder,,,, ,Newcastle United
+17,10.0,Mohamed Diamé,Midfielder,1.84 m6-0,80 kg176 lbs,6/14/1987      ,"Creteil, France ",Newcastle United
+18,14.0,Isaac Hayden,Midfielder,1.87 m6-2,79 kg174 lbs,3/22/1995      ,"Chelmsford, England ",Newcastle United
+19,18.0,Jack Henchcliffe,Midfielder,,,, ,Newcastle United
+20,15.0,Kenedy,Midfielder,1.82 m6-0,77 kg170 lbs,2/8/1996      ,"Santa Rita do Sapucai, Brazil ",Newcastle United
+21,4.0,Sung-yueng Ki,Midfielder,1.86 m6-1,75 kg165 lbs,1/24/1989      ,"Gwanju, South Korea ",Newcastle United
+22,36.0,Sean Longstaff,Midfielder,1.81 m5-11,73 kg161 lbs,10/30/1997      ,"Newcastle, England ",Newcastle United
+23,10.0,Elliott Reeves,Midfielder,,,, ,Newcastle United
+24,11.0,Matt Ritchie,Midfielder,1.73 m5-8,70 kg154 lbs,9/10/1989      ,"Gosport, England ",Newcastle United
+25,8.0,Jonjo Shelvey,Midfielder,1.85 m6-1,80 kg176 lbs,2/27/1992      ,"Harold Hill, England ",Newcastle United
+26,6.0,Elliot Ward,Midfielder,,,, ,Newcastle United
+27,21.0,Joselu,Forward,1.91 m6-3,80 kg176 lbs,3/27/1990      ,"Stuttgart, West Germany ",Newcastle United
+28,13.0,Yoshinori Muto,Forward,1.79 m5-10,72 kg159 lbs,7/15/1992      ,"Tokyo, Japan ",Newcastle United
+29,17.0,Ayoze Pérez,Forward,1.79 m5-10,66 kg146 lbs,7/29/1993      ,"Santa Cruz de Tenerife, Spain ",Newcastle United
+30,9.0,Salomón Rondón,Forward,1.86 m6-1,86 kg190 lbs,9/16/1989      ,"Caracas, Venezuela ",Newcastle United
+0,44.0,Fraser Forster,Goalkeeper,2.01 m6-7,93 kg205 lbs,3/17/1988      ,"Hexham, England ",Southampton
+1,28.0,Angus Gunn,Goalkeeper,1.96 m6-5,77 kg170 lbs,1/22/1996      ,"Norwich, England ",Southampton
+2,41.0,Harry Lewis,Goalkeeper,1.91 m6-3,77 kg170 lbs,12/20/1997      ,"Shrewsbury, England ",Southampton
+3,1.0,Alex McCarthy,Goalkeeper,1.93 m6-4,79 kg174 lbs,12/3/1989      ,"Guildford, England ",Southampton
+4,35.0,Jan Bednarek,Defender,1.89 m6-2,77 kg170 lbs,4/12/1996      ,"Slupca, Poland ",Southampton
+5,21.0,Ryan Bertrand,Defender,1.79 m5-10,85 kg187 lbs,8/5/1989      ,"Southwark, England ",Southampton
+6,32.0,Alfie Jones,Defender,1.91 m6-3,67 kg148 lbs,10/7/1997      ,"Bristol, England ",Southampton
+7,66.0,Kayne Ramsay,Defender,,,10/10/2000      , ,Southampton
+8,5.0,Jack Stephens,Defender,1.85 m6-1,75 kg165 lbs,1/27/1994      ,"Torpoint, England ",Southampton
+9,33.0,Matt Targett,Defender,1.83 m6-0,70 kg154 lbs,9/18/1995      ,"Eastleigh, England ",Southampton
+10,43.0,Yan Valery,Defender,1.80 m5-11,85 kg187 lbs,2/22/1999      ,"Champigny-sur-Marne, France ",Southampton
+11,4.0,Jannik Vestergaard,Defender,2.00 m6-7,98 kg216 lbs,8/3/1992      ,"Hvidovre, Denmark ",Southampton
+12,3.0,Maya Yoshida,Defender,1.89 m6-2,78 kg172 lbs,8/24/1988      ,"Nagasaki, Japan ",Southampton
+13,17.0,Stuart Armstrong,Midfielder,1.83 m6-0,75 kg165 lbs,3/30/1992      ,"Inverness, Scotland ",Southampton
+14,11.0,Mohamed Elyounoussi,Midfielder,1.78 m5-10,70 kg154 lbs,8/4/1994      ,"El Hoceima, Morocco ",Southampton
+15,23.0,Pierre-Emile Højbjerg,Midfielder,1.85 m6-1,84 kg185 lbs,8/5/1995      ,"Copenhagen, Denmark ",Southampton
+16,18.0,Mario Lemina,Midfielder,1.84 m6-0,85 kg187 lbs,9/1/1993      ,"Libreville, Gabon ",Southampton
+17,22.0,Nathan Redmond,Midfielder,1.73 m5-8,69 kg152 lbs,3/6/1994      ,"Birmingham, England ",Southampton
+18,14.0,Oriol Romeu,Midfielder,1.83 m6-0,83 kg183 lbs,9/24/1991      ,"Ulldecona, Spain ",Southampton
+19,39.0,Josh Sims,Midfielder,1.74 m5-9,67 kg148 lbs,3/28/1997      ,"Yeovil, England ",Southampton
+20,55.0,Callum Slattery,Midfielder,,,2/8/1999      ,England ,Southampton
+21,16.0,James Ward-Prowse,Midfielder,1.73 m5-8,66 kg146 lbs,11/1/1994      ,"Southampton, England ",Southampton
+22,10.0,Charlie Austin,Forward,1.88 m6-2,84 kg185 lbs,7/5/1989      ,"Hungerford, England ",Southampton
+23,65.0,Marcus Barnes,Forward,1.85 m6-1,72 kg159 lbs,12/1/1996      ,England ,Southampton
+24,15.0,Sam Gallagher,Forward,1.94 m6-4,75 kg165 lbs,9/15/1995      ,"Crediton, England ",Southampton
+25,9.0,Danny Ings,Forward,1.78 m5-10,73 kg161 lbs,7/23/1992      ,"Winchester, England ",Southampton
+26,51.0,Tyreke Johnson,Forward,,,11/3/1998      ,England ,Southampton
+27,7.0,Shane Long,Forward,1.78 m5-10,70 kg154 lbs,1/22/1987      ,"Gortnahoe, Ireland ",Southampton
+28,61.0,Michael Obafemi,Forward,,,7/6/2000      ,Ireland ,Southampton
+0,22.0,Paulo Gazzaniga,Goalkeeper,1.96 m6-5,90 kg198 lbs,1/2/1992      ,"Murphy, Argentina ",Tottenham Hotspur
+1,1.0,Hugo Lloris,Goalkeeper,1.88 m6-2,82 kg181 lbs,12/26/1986      ,"Nice, France ",Tottenham Hotspur
+2,13.0,Michel Vorm,Goalkeeper,1.84 m6-0,84 kg185 lbs,10/20/1983      ,"IJsselstein, Netherlands ",Tottenham Hotspur
+3,41.0,Alfie Whiteman,Goalkeeper,1.90 m6-3,77 kg170 lbs,10/2/1998      ,"Tottenham, England ",Tottenham Hotspur
+4,4.0,Toby Alderweireld,Defender,1.86 m6-1,81 kg179 lbs,3/2/1989      ,"Wilrijk, Belgium ",Tottenham Hotspur
+5,24.0,Serge Aurier,Defender,1.76 m5-9,76 kg168 lbs,12/24/1992      ,"Ouragahio, Ivory Coast ",Tottenham Hotspur
+6,33.0,Ben Davies,Defender,1.82 m6-0,76 kg168 lbs,4/24/1993      ,"Neath, Wales ",Tottenham Hotspur
+7,53.0,Timothy Eyoma,Defender,1.80 m5-11,,1/29/2000      ,England ,Tottenham Hotspur
+8,21.0,Juan Foyth,Defender,1.79 m5-10,69 kg152 lbs,1/12/1998      ,"La Plata, Argentina ",Tottenham Hotspur
+9,3.0,Danny Rose,Defender,1.73 m5-8,76 kg168 lbs,7/2/1990      ,"Doncaster, England ",Tottenham Hotspur
+10,6.0,Davinson Sánchez,Defender,1.87 m6-2,81 kg179 lbs,6/12/1996      ,"Caloto, Colombia ",Tottenham Hotspur
+11,2.0,Kieran Trippier,Defender,1.78 m5-10,72 kg159 lbs,9/19/1990      ,"Bury, England ",Tottenham Hotspur
+12,5.0,Jan Vertonghen,Defender,1.89 m6-2,86 kg190 lbs,4/24/1987      ,"Sint-Niklaas, Belgium ",Tottenham Hotspur
+13,16.0,Kyle Walker-Peters,Defender,1.74 m5-9,64 kg141 lbs,4/13/1997      ,"London, England ",Tottenham Hotspur
+14,20.0,Dele Alli,Midfielder,1.88 m6-2,76 kg168 lbs,4/11/1996      ,"Milton Keynes, England ",Tottenham Hotspur
+15,40.0,Luke Amos,Midfielder,1.79 m5-10,72 kg159 lbs,2/23/1997      ,"London, England ",Tottenham Hotspur
+16,15.0,Eric Dier,Midfielder,1.88 m6-2,90 kg198 lbs,1/15/1994      ,"Cheltenham, England ",Tottenham Hotspur
+17,23.0,Christian Eriksen,Midfielder,1.81 m5-11,76 kg168 lbs,2/14/1992      ,"Middelfart, Denmark ",Tottenham Hotspur
+18,11.0,Erik Lamela,Midfielder,1.81 m5-11,80 kg176 lbs,3/4/1992      ,"Buenos Aires, Argentina ",Tottenham Hotspur
+19,27.0,Lucas Moura,Midfielder,1.72 m5-8,72 kg159 lbs,8/13/1992      ,"Sao Paulo, Brazil ",Tottenham Hotspur
+20,47.0,George Marsh,Midfielder,1.64 m5-5,,11/5/1998      ,England ,Tottenham Hotspur
+21,17.0,Moussa Sissoko,Midfielder,1.87 m6-2,91 kg201 lbs,8/16/1989      ,"Le Blanc-Mesnil, France ",Tottenham Hotspur
+22,52.0,Oliver Skipp,Midfielder,,,9/16/2000      ,England ,Tottenham Hotspur
+23,12.0,Victor Wanyama,Midfielder,1.84 m6-0,87 kg192 lbs,6/25/1991      ,"Nairobi, Kenya ",Tottenham Hotspur
+24,8.0,Harry Winks,Midfielder,1.76 m5-9,74 kg163 lbs,2/2/1996      ,"Hemel Hempstead, England ",Tottenham Hotspur
+25,9.0,Vincent Janssen,Forward,1.83 m6-0,88 kg194 lbs,6/15/1994      ,"Oss, Netherlands ",Tottenham Hotspur
+26,10.0,Harry Kane,Forward,1.88 m6-2,98 kg216 lbs,7/28/1993      ,"Walthamstow, England ",Tottenham Hotspur
+27,18.0,Fernando Llorente,Forward,1.93 m6-4,88 kg194 lbs,2/26/1985      ,"Pamplona, Spain ",Tottenham Hotspur
+28,7.0,Heung-Min Son,Forward,1.83 m6-0,76 kg168 lbs,7/8/1992      ,"Chuncheon, South Korea ",Tottenham Hotspur
+0,30.0,Pontus Dahlberg,Goalkeeper,1.95 m6-5,90 kg198 lbs,1/21/1999      ,"Gothenburg, Sweden ",Watford
+1,26.0,Ben Foster,Goalkeeper,1.93 m6-4,90 kg198 lbs,4/3/1983      ,"Leamington, England ",Watford
+2,1.0,Heurelho Gomes,Goalkeeper,1.97 m6-6,95 kg209 lbs,2/15/1981      ,"Joao Pinheiro, Brazil ",Watford
+3,3.0,Miguel Britos,Defender,1.90 m6-3,85 kg187 lbs,7/17/1985      ,"Maldonado, Uruguay ",Watford
+4,15.0,Craig Cathcart,Defender,1.90 m6-3,83 kg183 lbs,2/6/1989      ,"Belfast, Northern Ireland ",Watford
+5,21.0,Kiko Femenía,Defender,1.74 m5-9,61 kg134 lbs,2/2/1991      ,"Sanet y Negrals, Spain ",Watford
+6,25.0,José Holebas,Defender,1.85 m6-1,81 kg179 lbs,6/27/1984      ,"Aschaffenburg, West Germany ",Watford
+7,2.0,Daryl Janmaat,Defender,1.85 m6-1,80 kg176 lbs,7/22/1989      ,"Leidschendam, Netherlands ",Watford
+8,27.0,Christian Kabasele,Defender,1.88 m6-2,86 kg190 lbs,2/24/1991      ,"Lubumbashi, DR Congo ",Watford
+9,6.0,Adrian Mariappa,Defender,1.80 m5-11,78 kg172 lbs,10/3/1986      ,"Harrow, England ",Watford
+10,11.0,Adam Masina,Defender,1.91 m6-3,87 kg192 lbs,1/2/1994      ,"Khouribga, Morocco ",Watford
+11,23.0,Marc Navarro,Defender,1.88 m6-2,79 kg174 lbs,7/2/1995      ,"Barcelona, Spain ",Watford
+12,5.0,Sebastian Prödl,Defender,1.96 m6-5,97 kg214 lbs,6/21/1987      ,"Graz, Austria ",Watford
+13,29.0,Etienne Capoue,Midfielder,1.90 m6-3,87 kg192 lbs,7/11/1988      ,"Niort, France ",Watford
+14,14.0,Nathaniel Chalobah,Midfielder,1.85 m6-1,76 kg168 lbs,12/12/1994      ,"Freetown, Sierra Leone ",Watford
+15,8.0,Tom Cleverley,Midfielder,1.75 m5-9,67 kg148 lbs,8/12/1989      ,"Basingstoke, England ",Watford
+16,16.0,Abdoulaye Doucouré,Midfielder,1.84 m6-0,76 kg168 lbs,1/1/1993      ,"Meulan-en-Yvelines, France ",Watford
+17,19.0,Will Hughes,Midfielder,1.85 m6-1,74 kg163 lbs,4/17/1995      ,"Surrey, England ",Watford
+18,37.0,Roberto Pereyra,Midfielder,1.82 m6-0,77 kg170 lbs,1/7/1991      ,"San Miguel de Tucuman, Argentina ",Watford
+19,20.0,Domingos Quina,Midfielder,1.73 m5-8,72 kg159 lbs,11/18/1999      ,"Bissau, Portugal ",Watford
+20,12.0,Ken Sema,Midfielder,1.77 m5-10,69 kg152 lbs,9/30/1993      ,"Norrkoping, Sweden ",Watford
+21,9.0,Troy Deeney,Forward,1.85 m6-1,101 kg223 lbs,6/29/1988      ,"Birmingham, England ",Watford
+22,7.0,Gerard Deulofeu,Forward,1.77 m5-10,73 kg161 lbs,3/13/1994      ,"Riudarenas, Spain ",Watford
+23,18.0,Andre Gray,Forward,1.78 m5-10,83 kg183 lbs,6/26/1991      ,"Wolverhampton, England ",Watford
+24,17.0,Adalberto Penaranda,Forward,1.83 m6-0,78 kg172 lbs,5/31/1997      ,"El Vigia, Venezuela ",Watford
+25,10.0,Isaac Success,Forward,,,1/7/1996      ,"Benin City, Nigeria ",Watford
+0,13.0,Adrián,Goalkeeper,1.90 m6-3,80 kg176 lbs,1/3/1987      ,"Seville, Spain ",West Ham United
+1,1.0,Lukasz Fabianski,Goalkeeper,1.90 m6-3,83 kg183 lbs,4/18/1985      ,"Kostrzyn Nad Odra, Poland ",West Ham United
+2,4.0,Fabián Balbuena,Defender,1.88 m6-2,85 kg187 lbs,8/23/1991      ,"Ciudad del Este, Paraguay ",West Ham United
+3,3.0,Aaron Cresswell,Defender,1.70 m5-7,66 kg146 lbs,12/15/1989      ,"Liverpool, England ",West Ham United
+4,23.0,Issa Diop,Defender,1.94 m6-4,92 kg203 lbs,1/9/1997      ,"Toulouse, France ",West Ham United
+5,26.0,Arthur Masuaku,Defender,1.79 m5-10,70 kg154 lbs,11/7/1993      ,"Lille, France ",West Ham United
+6,21.0,Angelo Ogbonna,Defender,1.91 m6-3,86 kg190 lbs,5/23/1988      ,"Cassino, Italy ",West Ham United
+7,2.0,Winston Reid,Defender,1.90 m6-3,87 kg192 lbs,7/3/1988      ,"North Shore, New Zealand ",West Ham United
+8,5.0,Pablo Zabaleta,Defender,1.74 m5-9,74 kg163 lbs,1/16/1985      ,"Buenos Aires, Argentina ",West Ham United
+9,54.0,Conor Coventry,Midfielder,,,3/25/2000      ,Ireland ,West Ham United
+10,24.0,Ryan Fredericks,Midfielder,1.81 m5-11,74 kg163 lbs,10/10/1992      ,"Potters Bar, England ",West Ham United
+11,37.0,Nathan Holland,Midfielder,,,6/19/1998      ,"Wythenshawe, England ",West Ham United
+12,10.0,Manuel Lanzini,Midfielder,1.67 m5-6,66 kg146 lbs,2/15/1993      ,"Ituzaingo, Argentina ",West Ham United
+13,18.0,Samir Nasri,Midfielder,1.77 m5-10,75 kg165 lbs,6/26/1987      ,"Marseille, France ",West Ham United
+14,16.0,Mark Noble,Midfielder,1.80 m5-11,70 kg154 lbs,5/8/1987      ,"Canning Town, England ",West Ham United
+15,14.0,Pedro Obiang,Midfielder,1.85 m6-1,75 kg165 lbs,3/27/1992      ,"Alcala de Henares, Spain ",West Ham United
+16,41.0,Declan Rice,Midfielder,1.85 m6-1,80 kg176 lbs,1/14/1999      ,"London, England ",West Ham United
+17,15.0,Carlos Sánchez,Midfielder,1.82 m6-0,82 kg181 lbs,2/6/1986      ,"Quibdo, Colombia ",West Ham United
+18,11.0,Robert Snodgrass,Midfielder,1.83 m6-0,82 kg181 lbs,9/7/1987      ,"Glasgow, Scotland ",West Ham United
+19,19.0,Jack Wilshere,Midfielder,1.70 m5-7,65 kg143 lbs,1/1/1992      ,"Stevenage, England ",West Ham United
+20,30.0,Michail Antonio,Forward,1.80 m5-11,82 kg181 lbs,3/28/1990      ,"London, England ",West Ham United
+21,7.0,Marko Arnautovic,Forward,1.92 m6-4,83 kg183 lbs,4/19/1989      ,"Vienna, Austria ",West Ham United
+22,9.0,Andy Carroll,Forward,1.93 m6-4,79 kg174 lbs,1/6/1989      ,"Gateshead, England ",West Ham United
+23,45.0,Grady Diangana,Forward,1.80 m5-11,73 kg161 lbs,4/19/1998      ,England ,West Ham United
+24,8.0,Felipe Anderson,Forward,1.75 m5-9,70 kg154 lbs,4/15/1993      ,"Brasilia, Brazil ",West Ham United
+25,17.0,Javier Hernández,Forward,1.75 m5-9,71 kg157 lbs,6/1/1988      ,"Guadalajara, Mexico ",West Ham United
+26,27.0,Lucas Pérez,Forward,1.80 m5-11,82 kg181 lbs,9/10/1988      ,"A Coruna, Spain ",West Ham United
+27,32.0,Xande Silva,Forward,1.77 m5-10,68 kg150 lbs,3/16/1997      ,"Lisbon, Portugal ",West Ham United
+28,20.0,Andriy Yarmolenko,Forward,1.90 m6-3,83 kg183 lbs,10/23/1989      ,"St. Petersburg, USSR ",West Ham United
+0,31.0,Will Norris,Goalkeeper,1.91 m6-3,81 kg179 lbs,8/12/1993      ,"Royston, England ",Wolves
+1,11.0,Rui Patrício,Goalkeeper,1.89 m6-2,84 kg185 lbs,2/15/1988      ,"Marrazes, Portugal ",Wolves
+2,21.0,John Ruddy,Goalkeeper,1.93 m6-4,97 kg214 lbs,10/24/1986      ,"St Ives, England ",Wolves
+3,5.0,Ryan Bennett,Defender,1.89 m6-2,90 kg198 lbs,3/6/1990      ,"Orsett, England ",Wolves
+4,15.0,Willy Boly,Defender,1.95 m6-5,97 kg214 lbs,2/3/1991      ,"Melun, France ",Wolves
+5,16.0,Conor Coady,Defender,1.86 m6-1,80 kg176 lbs,2/25/1993      ,"Liverpool, England ",Wolves
+6,2.0,Matt Doherty,Defender,1.86 m6-1,89 kg196 lbs,1/16/1992      ,"Dublin, Ireland ",Wolves
+7,47.0,Cameron John,Defender,,,8/24/1999      , ,Wolves
+8,19.0,Jonny,Defender,1.75 m5-9,75 kg165 lbs,3/3/1994      ,"Vigo, Spain ",Wolves
+9,49.0,Max Kilman,Defender,,,5/23/1997      ,"London, England ",Wolves
+10,29.0,Rúben Vinagre,Defender,1.74 m5-9,64 kg141 lbs,4/9/1999      ,"Charneca da Caparica, Portugal ",Wolves
+11,32.0,Leander Dendoncker,Midfielder,1.88 m6-2,76 kg168 lbs,4/15/1995      ,"Passendale, Belgium ",Wolves
+12,17.0,Morgan Gibbs-White,Midfielder,1.71 m5-7,60 kg132 lbs,1/27/2000      ,"Stafford, England ",Wolves
+13,23.0,Ryan John Giles,Midfielder,,,1/26/2000      ,England ,Wolves
+14,28.0,Joao João Moutinho,Midfielder,1.70 m5-7,61 kg134 lbs,9/8/1986      ,"Portimao, Portugal ",Wolves
+15,8.0,Rúben Neves,Midfielder,1.80 m5-11,80 kg176 lbs,3/13/1997      ,"Mozelos, Portugal ",Wolves
+16,26.0,Pote,Midfielder,1.73 m5-8,58 kg128 lbs,6/28/1998      ,"Chaves, Portugal ",Wolves
+17,27.0,Romain Saïss,Midfielder,1.90 m6-3,76 kg168 lbs,3/26/1990      ,"Bourg-de-Peage, France ",Wolves
+18,37.0,Adama Traoré,Midfielder,1.78 m5-10,76 kg168 lbs,1/25/1996      ,"L'Hospitalet de Llobregat, Spain ",Wolves
+19,25.0,Elliot Watt,Midfielder,,,3/11/2000      ,"Preston, England ",Wolves
+20,24.0,Benny Ashley Seal,Forward,,,11/21/1998      , ,Wolves
+21,7.0,Ivan Cavaleiro,Forward,1.75 m5-9,80 kg176 lbs,10/18/1993      ,"Vila Franca de Xira, Portugal ",Wolves
+22,10.0,Hélder Costa,Forward,1.79 m5-10,77 kg170 lbs,1/12/1994      ,"Luanda, Angola ",Wolves
+23,18.0,Diogo Jota,Forward,1.78 m5-10,73 kg161 lbs,12/4/1996      ,"Massarelos, Portugal ",Wolves
+24,9.0,Raúl Jiménez,Forward,1.88 m6-2,79 kg174 lbs,5/5/1991      ,"Tepeji del Rio, Mexico ",Wolves
+25,,Joe Mason,Forward,1.78 m5-10,73 kg161 lbs,5/13/1991      ,"Plymouth, England ",Wolves

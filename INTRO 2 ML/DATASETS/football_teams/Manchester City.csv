@@ -1,0 +1,32 @@
+,1_num,2_Name,3_Position,4_Height,5_Weight,6_BirthDate,7_Birthplace
+0,1,Claudio Bravo,Goalkeeper,1.84 m6-0,80 kg176 lbs,4/13/1983      ,"Viluco, Chile "
+1,31,Ederson,Goalkeeper,1.88 m6-2,86 kg190 lbs,8/17/1993      ,"Osasco, Brazil "
+2,32,Daniel Grimshaw,Goalkeeper,,,1/16/1998      ,"Manchester, England "
+3,49,Arijanet Muric,Goalkeeper,1.97 m6-6,81 kg179 lbs,11/7/1998      ,Switzerland 
+4,3,Danilo,Defender,1.84 m6-0,78 kg172 lbs,7/15/1991      ,"Bicas, Brazil "
+5,50,Eric Garcia,Defender,1.82 m6-0,,1/9/2001      ,Spain 
+6,4,Vincent Kompany,Defender,1.90 m6-3,85 kg187 lbs,4/10/1986      ,"Ukkel, Belgium "
+7,14,Aymeric Laporte,Defender,1.89 m6-2,85 kg187 lbs,5/27/1994      ,"Agen, France "
+8,15,Eliaquim Mangala,Defender,1.88 m6-2,81 kg179 lbs,2/13/1991      ,"Colombes, France "
+9,22,Benjamin Mendy,Defender,1.83 m6-0,84 kg185 lbs,7/17/1994      ,"Longjumeau, France "
+10,30,Nicolás Otamendi,Defender,1.81 m5-11,81 kg179 lbs,2/12/1988      ,"Buenos Aires, Argentina "
+11,34,Philippe Sandler,Defender,1.88 m6-2,76 kg168 lbs,2/10/1997      ,"Amsterdam, Netherlands "
+12,5,John Stones,Defender,1.88 m6-2,72 kg159 lbs,5/28/1994      ,"Barnsley, England "
+13,2,Kyle Walker,Defender,1.78 m5-10,83 kg183 lbs,5/28/1990      ,"Sheffield, England "
+14,,Adrian Bernabe,Midfielder,,,5/26/2001      ,Spain 
+15,17,Kevin De Bruyne,Midfielder,1.81 m5-11,70 kg154 lbs,6/28/1991      ,"Drongen, Belgium "
+16,18,Fabian Delph,Midfielder,1.74 m5-9,78 kg172 lbs,11/21/1989      ,"Bradford, England "
+17,25,Fernandinho,Midfielder,1.79 m5-10,67 kg148 lbs,5/4/1985      ,"Londrina, Brazil "
+18,47,Phil Foden,Midfielder,1.71 m5-7,59 kg130 lbs,5/28/2000      ,"Stockport, England "
+19,81,Claudio Gomes,Midfielder,1.80 m5-11,,7/23/2000      ,"Argenteuil, France "
+20,8,Ilkay Gündogan,Midfielder,1.80 m5-11,79 kg174 lbs,10/24/1990      ,"Gelsenkirchen, Germany "
+21,26,Riyad Mahrez,Midfielder,1.79 m5-10,67 kg148 lbs,2/21/1991      ,"Sarcelles, France "
+22,,Felix Nmecha,Midfielder,,,10/10/2000      ,England 
+23,19,Leroy Sané,Midfielder,1.83 m6-0,75 kg165 lbs,1/11/1996      ,"Essen, Germany "
+24,20,Bernardo Silva,Midfielder,1.73 m5-8,65 kg143 lbs,8/10/1994      ,"Lisbon, Portugal "
+25,21,David Silva,Midfielder,1.70 m5-7,67 kg148 lbs,1/8/1986      ,"Arguineguin, Spain "
+26,7,Raheem Sterling,Midfielder,1.70 m5-7,70 kg154 lbs,12/8/1994      ,"Kingston, Jamaica "
+27,35,Oleksandr Zinchenko,Midfielder,1.75 m5-9,61 kg134 lbs,12/15/1996      ,"Radomyshl, Ukraine "
+28,10,Sergio Agüero,Forward,1.72 m5-8,74 kg163 lbs,6/2/1988      ,"Quilmes, Argentina "
+29,74,Luke Bolton,Forward,,,10/7/1999      ,"Manchester, England "
+30,33,Gabriel Jesus,Forward,1.75 m5-9,73 kg161 lbs,4/3/1997      ,"Sao Paulo, Brazil "
